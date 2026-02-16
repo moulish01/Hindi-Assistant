@@ -1,0 +1,14 @@
+certifi==2026.1.4
+cffi==2.0.0
+charset-normalizer==3.4.4
+idna==3.11
+packaging==26.0
+PyAudio @ file:///home/vsduser/Python-3.10.13/project/PyAudio-0.2.14
+pycparser==3.0
+requests==2.32.5
+sounddevice==0.5.5
+srt==3.5.3
+tqdm==4.67.3
+urllib3==2.6.3
+vosk==0.3.45
+websockets==16.0
