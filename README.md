@@ -125,7 +125,7 @@ This project builds an embedded speech pipeline performing:
 ## 📂 Project Structure
 
 ```
-offline-hindi-assistant/
+hindi-assistant/
 │
 ├── assistant.py
 ├── readme.txt
@@ -140,7 +140,7 @@ offline-hindi-assistant/
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/Deepa-0408/hindi_voice_assistant.git
+git clone https://github.com/moulish01/Hindi-Assistant
 cd offline-hindi-assistant
 ```
 
@@ -196,12 +196,3 @@ This project demonstrates:
 * Practical application of signal processing and embedded programming
 
 It bridges the gap between AI algorithms and hardware-aware deployment, making it suitable for both academic research and industrial applications in regional language AI systems.
-
----
-
-If you want, I can also:
-
-* ✨ Add badges (Python version, Raspberry Pi, License, etc.)
-* ✨ Add architecture diagram (ASCII or image)
-* ✨ Format it for IEEE project submission
-* ✨ Make it more industry-ready for GitHub portfolio 🚀
